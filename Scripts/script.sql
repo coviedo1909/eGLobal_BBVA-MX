@@ -1,1 +1,2 @@
 SELECT * FROM ST24.SSS_Trans
+Where RRN = '132'
