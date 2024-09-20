@@ -1,0 +1,1 @@
+SELECT * FROM ST24.SSS_Trans
